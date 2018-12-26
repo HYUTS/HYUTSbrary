@@ -3,6 +3,7 @@
   "version": "1",
   "description": "Test library module",
   "author": "Chris Morris",
+  "license": "MIT",
   "keywords": [
     "library",
   ],
