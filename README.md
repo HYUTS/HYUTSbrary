@@ -1,2 +1,2 @@
 # (DID NOT WORK) HYUTSbrary
-Custom library for use with my Nodejs projects through npm
+Attempted to create a library in which I could import into nodejs with npm
